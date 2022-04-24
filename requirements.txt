@@ -1,0 +1,10 @@
+# --find-links https://download.pytorch.org/whl/torch_stable.html
+torch
+numpy
+torchvision
+transformers
+streamlit
+easydict
+pytest
+opencv-python-headless
+emoji

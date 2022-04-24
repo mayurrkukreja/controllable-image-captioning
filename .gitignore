@@ -1,0 +1,12 @@
+ckpts/*.pth
+ckpts/WORDMAP*.json
+ckpts/config.json
+ckpts/woemojis
+
+__pycache__
+*/__pycache__
+*/*/__pycache__
+
+.pytest_cache
+.vscode
+.idea
